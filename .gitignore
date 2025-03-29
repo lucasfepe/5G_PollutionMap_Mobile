@@ -30,7 +30,7 @@ yarn-error.*
 *.pem
 
 # local env files
-.env*.local
+.env
 
 # typescript
 *.tsbuildinfo
@@ -38,3 +38,40 @@ yarn-error.*
 app-example
 
 app.json
+# Expo/React Native
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Android
+android/.gradle
+android/build/
+android/app/build/
+android/local.properties
+android/captures/
+android/gradle.properties
+android/.idea/
+android/app/debug/
+android/app/release/
+android/*.iml
+android/app/*.iml
+
+# Project specific
+app.json
+Screenshot 2025-03-29 142640.png
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.log
+*.hprof
+
