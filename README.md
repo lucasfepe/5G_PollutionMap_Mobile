@@ -48,3 +48,8 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Setup
+1. Copy app.json.template to app.json
+2. Copy gradle.properties.template to gradle.properties
+3. Replace the placeholder tokens with your actual Mapbox tokens

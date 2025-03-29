@@ -24,7 +24,7 @@
       "favicon": "./assets/images/favicon.png"
     },
     "extra": {
-      "MAPBOX_PUBLIC_TOKEN": "pk.eyJ1IjoibHVjYXNmZXJyYXJpcGVyZWlyYSIsImEiOiJjbThyd250NHAwNzNlMnFvdTJpaW8yZW5uIn0.kL1nChDkUiKikf7vyNjfkg"
+      "MAPBOX_PUBLIC_TOKEN": "@@@YOUR_PUBLIC_TOKEN_HERE@@@"
     },
     "plugins": [
       "expo-router",
@@ -41,7 +41,7 @@
         "@rnmapbox/maps",
         {
           "RNMapboxMapsImpl": "mapbox",
-          "RNMapboxMapsDownloadToken": "sk.eyJ1IjoibHVjYXNmZXJyYXJpcGVyZWlyYSIsImEiOiJjbTh1amp0encwN3R5Mm1weW1rMHBqemY0In0.mc6eFPZRy5RBRmfBGJcXfQ"
+          "RNMapboxMapsDownloadToken": "@@@YOUR_DOWNLOAD_TOKEN_HERE@@@"
         }
       ]
     ],
